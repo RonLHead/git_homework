@@ -10,4 +10,3 @@ Shoutout to helpful individual! - Ellen!
 
 GitHub
   Local Repo
-  Remote Repo
