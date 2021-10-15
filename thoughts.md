@@ -5,3 +5,5 @@
 2 Strategies for Mod 0
   1. Carve out time to allocate 40 hours devoted to Mod 1 PreWork
   2. Make sure to include down time in calendar on top of sessions, homework, studying, and Mod 1 PreWork
+
+Shoutout to helpful individual! - Ellen!
