@@ -7,3 +7,7 @@
   2. Make sure to include down time in calendar on top of sessions, homework, studying, and Mod 1 PreWork
 
 Shoutout to helpful individual! - Ellen!
+
+GitHub
+  Local Repo
+  Remote Repo
